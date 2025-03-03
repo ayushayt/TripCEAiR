@@ -2,6 +2,8 @@
 
 Implementation of the paper "TripCEAiR: A multi-loss minimization approach for surface EMG based airwriting recognition" (https://www.sciencedirect.com/science/article/abs/pii/S174680942300424X)
 
+For any queries please contact Ayush Tripathi (ayushtripathi1811@gmail.com).
+
 ![image](https://github.com/user-attachments/assets/3de03d32-4f1e-40d8-9251-c3e9ed145c01)
 
 
